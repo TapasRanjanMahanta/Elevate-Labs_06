@@ -21,3 +21,4 @@ It prevents submission until all fields are valid and provides real-time error m
 - **JavaScript (Vanilla JS)** → Input validation & user feedback  
 - **VS Code** → Code editor  
 - **Chrome Browser** → Testing  
+![Image Alt](https://github.com/TapasRanjanMahanta/Elevate-Labs_06/blob/main/Screenshoots.jpg?raw=true)
